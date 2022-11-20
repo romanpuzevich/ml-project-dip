@@ -1,4 +1,4 @@
-# Welcome to ml-project-diplom
+# Welcome to ml-project-dip
 
 A short description of the project.
 
